@@ -1,2 +1,2 @@
 # hello-world
-Repository Creation Test
+Hello World.  I love to code and am learning about Git_Hub!
